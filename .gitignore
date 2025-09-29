@@ -1,0 +1,16 @@
+# OS metadata
+.DS_Store
+*.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
